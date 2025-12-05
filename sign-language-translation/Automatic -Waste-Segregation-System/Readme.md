@@ -1,0 +1,3 @@
+This project focuses on building an automatic waste segregation system designed to classify organic, recyclable, and metallic waste using an integrated sensor and vision-based approach. The system leverages IR sensors, metal detectors, and machine learning models for classification accuracy and reliability. A CNN-based image processing pipeline was used to improve identification of wet and dry waste, supported by enhanced entropy-based feature extraction.
+
+The hardware architecture includes conveyors, servo-based sorting mechanisms, sensor arrays, and embedded controllers for real-time operation. This solution promotes efficient waste management, reduces manual sorting efforts, and improves sustainability by enabling accurate segregation at the source.
