@@ -1,0 +1,3 @@
+This project involves the development of AI-powered Smart Specs designed to assist visually impaired users through real-time object detection, scene understanding, and environment awareness. The prototype is built using the ESP32-S3 microcontroller and ESP32-CAM module, integrating edge AI capabilities for low-latency processing.
+
+The system captures visual input, processes it through lightweight on-device models, and provides audio feedback to the user. The hardware setup includes onboard compute, camera module, and communication components optimized for portability and power efficiency. This solution demonstrates the practical use of embedded AI in assistive technology applications, offering enhanced independence, safety, and accessibility for end users.
